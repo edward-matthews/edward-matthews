@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @edward-matthews
+- 👀 I’m interested in web development, creative coding, fitness and travel.
+- 🌱 I’m currently learning Python and Django.
+- 💞️ I’m looking to collaborate on anything where my limited skills could be of value!
+- 📫 Contact me at matthews.edward.j@gmail.com
