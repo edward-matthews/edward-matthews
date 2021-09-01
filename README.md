@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React and Django.**
 
-- 🤝 I’m looking for help with [Iconic Yacht (primarily design!)](https://github.com/edward-matthews/iconic-yacht)
+- 🤝 I’m looking for help with [Iconic Yacht](https://github.com/edward-matthews/iconic-yacht). I'm looking to eventually add multiplayer through websockets and the design needs a considerable upgrade. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/edward-matthews](https://github.com/edward-matthews)
 
