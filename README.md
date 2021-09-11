@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edward Matthews</h1>
 <h3 align="center">A self-taught full stack Web Developer from South West England.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edward-matthews&label=Profile%20views&color=0e75b6&style=flat" alt="edward-matthews" /> </p>
-
-<p align="left"> <a href="https://twitter.com/matthewsedwardj" target="blank"><img src="https://img.shields.io/twitter/follow/matthewsedwardj?logo=twitter&style=for-the-badge" alt="matthewsedwardj" /></a> </p>
-
 - 🔭 I’m currently working on [Evolutionary Noughts and Crosses](https://github.com/edward-matthews/evolutionary-noughts-and-crosses)
 
 - 🌱 I’m currently learning **React and Django.**
